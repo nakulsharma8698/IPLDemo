@@ -1,0 +1,108 @@
+﻿[
+    {
+        "Team": "MI",
+        "Pld": "14",
+        "Won": "9",
+        "Lost": "5",
+        "Tied": "0",
+        "N/R": "0",
+        "NetRR": "+1.107",
+        "For": "2,380/275.1",
+        "Against": "2,282/277.2",
+        "Pts": "18",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606573701/MI_bseczt.jpg"
+    },
+    
+    {
+        "Team": "DC",
+        "Pld": "14",
+        "Won": "8",
+        "Lost": "6",
+        "Tied": "0",
+        "N/R": "0",
+        "NetRR": "-0.109",
+        "For": "2,207/272.5",
+        "Against": "2,238/278.1",
+        "Pts": "16",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606574812/dc_shv77b.jpg"
+    },
+    {
+        "Team": "SRH",
+        "Pld": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "N/R": "0",
+        "NetRR": "+0.608",
+        "For": "2,288/269.2",
+        "Against": "2,200/277.5",
+        "Pts": "14",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606574814/srh_glkmkk.jpg"
+    },
+     {
+        "Team": "RCB",
+        "Pld": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "N/R": "1",
+        "NetRR": "-0.172",
+        "For": "2,146/258.4",
+        "Against": "2,266/254.3",
+        "Pts": "14",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606573696/rcb_eipdvi.jpg"
+    },
+    {
+        "Team": "KKR",
+        "Pld": "14",
+        "Won": "7",
+        "Lost": "7",
+        "Tied": "0",
+        "N/R": "0",
+        "NetRR": "-0.214",
+        "For": "2,466/270.4",
+        "Against": "2,419/266.2",
+        "Pts": "14",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606573701/kkr_cujksu.jpg"
+    },
+    {
+        "Team": "KXIP",
+        "Pld": "14",
+        "Won": "6",
+        "Lost": "8",
+        "Tied": "0",
+        "N/R": "0",
+        "NetRR": "-0.162",
+        "For": "2,429/276.3",
+        "Against": "2,503/277",
+        "Pts": "12",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606574821/kxip_dtubth.png"
+    },
+    {
+        "Team": "CSK",
+        "Pld": "14",
+        "Won": "6",
+        "Lost": "8",
+        "Tied": "0",
+        "N/R": "0",
+        "NetRR": "-0.455",
+        "For": "2,043/274.1",
+        "Against": "2,012/274.5",
+        "Pts": "12",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606574811/csk_l4e7zy.jpg"
+    },
+    {
+        "Team": "RR",
+        "Pld": "14",
+        "Won": "6",
+        "Lost": "8",
+        "Tied": "0",
+        "N/R": "1",
+        "NetRR": "-0.569",
+        "For": "2,153/257",
+        "Against": "2,192/248.2",
+        "Pts": "12",
+        "logo": "https://res.cloudinary.com/nakul/image/upload/v1606574813/rr_tbkopl.png"
+    }
+   
+]

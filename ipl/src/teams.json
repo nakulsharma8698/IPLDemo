@@ -1,0 +1,79 @@
+﻿[
+    {
+        "team1": "Kolkata Knight Riders",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606573701/kkr_cujksu.jpg",
+        "captain": "Dinesh Kartik",
+	"owners":["Red Chillies Entertainment", "Mehta Group"],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720092/dk_crzog9.jpg",
+	"id":"kkr",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606768501/redchilli_mpw1t3.png","https://res.cloudinary.com/nakul/image/upload/v1606768501/mehta_sjyuth.png"]
+    },
+    {
+        "team1": "Rajasthan Royals",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606574813/rr_tbkopl.png",
+        "captain": "Steven Smith",
+	"owners": ["Manoj Badale", "Lachlan Murdoch"],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720101/steve_ico8jz.jpg",
+	"id":"rr",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606727269/rr2_z8xrpy.jpg","https://res.cloudinary.com/nakul/image/upload/v1606768506/rr1_dlkxup.jpg"]
+    },
+    {
+        "team1": "Chennai Super Kings",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606574811/csk_l4e7zy.jpg",
+        "captain": "M.S. Dhoni",
+	"owners": ["India Cements",""],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720088/dhoni_tm7pa2.jpg",
+	"id":"csk",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606768502/india_cements_fmsiep.png",""]
+    },
+   
+    {
+        "team1": "Delhi Capitals",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606574812/dc_shv77b.jpg",
+        "captain": "Shreyas Ayyar",
+	"owners": ["JSW Group","GMR Group"],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720096/ayyar_bsnjxk.jpg",
+	"id":"dc",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606768501/jsw_i36zdp.png","https://res.cloudinary.com/nakul/image/upload/v1606768501/gmr_b09e8r.jpg"]
+    },
+    
+    {
+        "team1": "Royal Challengers Bangalore",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606573696/rcb_eipdvi.jpg",
+        "captain": "Virat Kohli",
+	"owners": ["United Spirited Limited",""],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720092/kohli_swfzh0.jpg",
+	"id":"rcb",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606768501/rcb_tkquup.png",""]
+    },
+
+    {
+        "team1": "Mumbai Indians",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606573701/MI_bseczt.jpg",
+        "captain": "Rohit Sharma",
+	"owners": ["Reliance Industries Limited", ""],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720092/rs_ftqyjt.jpg",
+	"id":"mi",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606727271/reliance_c29lop.png",""]
+    },
+    {
+        "team1": "Sunrisers Hyderabad",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606574814/srh_glkmkk.jpg",
+        "captain": "David Warner",
+	"owners": ["SUN TV Networks", ""],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720095/warner_jqhhxq.jpg",
+	"id":"srh",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606727295/suntv_lfn3ii.png",""]
+    },
+  
+    {
+        "team1": "Kings XI Punjab",
+	"teamimg": "https://res.cloudinary.com/nakul/image/upload/v1606574821/kxip_dtubth.png",
+        "captain": "KL Rahul",
+	"owners": ["Priety Zinta",""],
+	"capimg":"https://res.cloudinary.com/nakul/image/upload/v1606720091/kl_ywdxke.jpg",
+	"id":"kxip",
+	"owimg":["https://res.cloudinary.com/nakul/image/upload/v1606727274/priety_cxmslk.jpg",""]
+        
+    }
+]
